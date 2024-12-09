@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/238c1a43-752e-4538-998e-6a467ff7544a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/retail-dashboard-analysis",
+  "appService.deploySubpath": "."
+}
